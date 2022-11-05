@@ -1,0 +1,2 @@
+# azure
+for practice purpose
